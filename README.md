@@ -1,2 +1,4 @@
 # Multiple-Dieases-Prediction
-This repository contains the codebase for "Multiple Disease Prediction Streamlit App". The training notebooks & the datasets are also provided in the respective folders and app.py is the streamlit app code. 
+A web application for predicting multiple diseases using machine learning models. This project includes prediction models for diabetes, heart disease and kidney dieases.
+
+
