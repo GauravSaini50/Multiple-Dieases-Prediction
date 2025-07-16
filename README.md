@@ -17,5 +17,6 @@ The workflow includes:
 
 Each disease module is trained and tested independently, with performance metrics like accuracy, precision, recall, and confusion matrices guiding model selection.
 Objective: Enable early detection and risk assessment for Diabetes, Heart Disease, and Kidney Disease by applying interpretable and scalable ML solutions.
+
 Tech Stack: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
